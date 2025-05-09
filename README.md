@@ -11,11 +11,13 @@ Trước khi chạy chương trình, bạn cần cài vài thư viện Python:
 
 Cách chạy
 
-Mở file main.py trong visual code
+Mở file main.py trong visual code 
+
 
 Thay đổi giờ trong dòng này nếu muốn thử (ví dụ thay "14:46" thành giờ hiện tại của bạn):
-sau đó nhấn lệnh chạy, đợi trang web tải lấy xong bài viết
-Sau khi chạy xong, bạn sẽ thấy file TinTuc_VnExpress.xlsx chứa các bài viết được lưu trong thư mục hiện tại.
+sau đó nhấn lệnh chạy ***python main.py***
+đợi trang web tải lấy xong bài viết
+Sau khi chạy xong, sẽ thấy file TinTuc_VnExpress.xlsx tự động được tạo, ở đó có chứa các bài viết được lấy từ trang web. 
 
 
 
